@@ -1,0 +1,36 @@
+h3{
+width: 600px;
+font-size: medium;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li{
+    float: left;
+    
+}
+li a{
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 50px;
+}
+li a:hover{
+    background-color: #04aa6d;
+}
+dl{
+    background-color: #333;
+    width: 10%;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}
